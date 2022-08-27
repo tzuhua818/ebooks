@@ -1,1 +1,40 @@
-# ebooks
+---
+description: 一年徙栽，三年khiā黃
+---
+
+# 1-001.Chi̍t nî sóa chai, saⁿ nî khiā n̂g
+
+　　四十外冬前tī國民學校（國小）讀冊ê時，每日放學轉到厝–ni̍h，厝邊隔壁ê四、五ê gín-á伴隨時招–leh，有ê搬椅條，有ê giâ椅頭á，ta̍k-ke kheh-kheh做一夥，創siáⁿ？寫字–kong！
+
+　　寫無1-tah久，有人開始坐bē tiâu椅，搬過來徙過去，心情táng-hiáⁿ想boeh thit-thô，chit時去hō͘阿ḿ看–tio̍h：「又koh teh徙岫–ā，真正搬岫雞母生無卵，boeh寫khah緊寫，boeh thit-thô寫了chiah去thit-thô。」
+
+　　Chit-mái爸母對kiáⁿ ê教育非常注重，應該是好現象，m̄-kú有寡家長實在關心過度，選老師、催gín-á去補習，是平常事；換班級調學校to̍h khah過份–lo͘h。你ka想看māi–leh，1-ê chiâⁿ十、十外歲á ê gín-á栽，ná ē堪得一徙兩徙，a̍h boeh熟似新老師新同學，a̍h boeh適應新環境，真正是「人生份地頭又koh無熟」，boeh ná靜ē落心來讀冊neh？
+
+　　奉勸做人爸母，疼kiáⁿ tio̍h chām-chat，除非不得已，siāng好是mài隨便chhiau-chhe̍k，你無聽人tī-teh講：「一年徙栽，三年khiā黃。」實在值得三思。
+
+
+
+註解
+
+> Chù-kái
+
+| 語詞            | 解說                |
+| ------------- | ----------------- |
+| 椅條            | Í-tiâu，『長板凳』。     |
+| Giâ           | 『舉，搬』。            |
+| 椅頭á           | 『小椅子』。            |
+| Kheh-kheh做一夥  | 『擠在一起』。           |
+| 寫字--kong      | 『寫字呀，寫字說』。        |
+| 1-tah久        | 『一下子』。            |
+| 坐bē tiâu      | 『坐不住』。            |
+| Táng-hiáⁿ     | 『心思不穩，安靜不下來』。     |
+| 徙岫            | Sóa-siū，換位。       |
+| 有寡            | Ū-kóa，『有一些』。      |
+| Chiâⁿ十        | 將近十。              |
+| Gín-á栽        | Gín-á-chai。『小孩子』。 |
+| Ná ē堪-得       | Ná-ē kham-tit。    |
+| 生份            | Seⁿ-hūn，『陌生』。     |
+| Chām-chat     | 有節制。              |
+| Mài           | 『不要』。             |
+| Chhiau-chhe̍k | 大變動。              |
+| Khiā黃         | 『直立著，但一直枯黃下去』。    |
